@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lang-Shao / Dr."
+title                    : "Dr. Lang Shao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description_TBD"
